@@ -2,4 +2,4 @@
 It will be used by myself for the purposes of learning Bootstrap and other new coding features.
 The goal of this project is to build upon recently learned coding techniques with new ones as they are learned and to familarize further with Git.
 ## Who can use this project
-Anyone can accessthis project who would like an example of the Bootstrap template.
+Anyone can access this project who would like an example of the Bootstrap template.
